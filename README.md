@@ -9,7 +9,7 @@ Olá, visitante curioso. Eu sou **Danilo Oliveira**, humano em tempo integral, d
 
 ---
 
-## 💼 Profissão: Fev Frontend e pokémon de dupla jornada
+## 💼 Profissão: Dev Frontend e pokémon de dupla jornada
 Atualmente atuo como **Frontend Sênior alocado no Banco BTG pela Tivit** — tipo aquele Pokémon que aparece em duas versões e sabe usar `ngIf` como ataque especial. Meu habitat natural inclui **Angular, AWS** e deploys feitos sob lua cheia (por precaução). Às vezes funciona, às vezes a culpa é do cache, mas sigo firme tentando deixar o código mais limpo que Pokédex zerada.
 
 ---
